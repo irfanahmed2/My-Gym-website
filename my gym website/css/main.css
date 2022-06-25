@@ -23,7 +23,9 @@ a {
     color: white;
     text-decoration: none;
 }
-
+.row{
+     padding:16px;
+}
 .navbar {
     min-height: 70px;
     display: flex;
